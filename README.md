@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ajcwilliams
-- 👀 I’m interested in quant finance
-- 🌱 I’m currently learning python & Japanese
+Hello, I’m @ajcwilliams.
+
 
 <!---
 ajcwilliams/ajcwilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
